@@ -11,7 +11,11 @@ public class MethodMemo1 {
 
 	public static void main(String[] args) {
 		
-		numbering();
+		numbering(); // 메소드 = 재활용, 코드량 감소, 유지보수 유리
+//		numbering();
+//		numbering();
+//		numbering();
+//		numbering();
 
 	}
 
